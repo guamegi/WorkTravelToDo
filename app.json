@@ -1,11 +1,9 @@
 {
   "expo": {
-    "name": "my-project",
-    "slug": "my-project",
+    "name": "WorkTravelToDo",
+    "slug": "WorkTravelToDo",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   },
-  "name": "my-project"
+  "name": "WorkTravelToDo"
 }

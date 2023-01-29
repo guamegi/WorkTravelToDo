@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "WorkTravelToDo",
-    "slug": "WorkTravelToDo",
+    "name": "work-travel-todo",
+    "slug": "work-travel-todo",
     "version": "1.0.0",
     "assetBundlePatterns": ["**/*"]
   },
-  "name": "WorkTravelToDo"
+  "name": "work-travel-todo"
 }
